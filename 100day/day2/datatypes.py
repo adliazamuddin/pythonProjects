@@ -1,11 +1,23 @@
-#Integer
-print(123+345)
+# 3+5
+# 8-3
+# 3*5
+# 5/1
+# 2 ** 2
 
-#Float
+# PEMDAS
+# ()
+# **
+# *
+# /
+# +
+# -
 
-3.14159
+score = 0
+score +=1
+score +=1
 
-#Boolean
+height = 1.8
+isWinning = True
+#f-String
 
-True 
-False
+print(f"your score is {score}, your height is {height} , you are winning is {isWinning}" )
